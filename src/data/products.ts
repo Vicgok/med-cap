@@ -1,0 +1,48 @@
+export const products = [
+  {
+    id: 1,
+    name: "HK Vitals Fish Oil 1000 mg for Joint & Heart Health | Soft Gelatin Capsule",
+    image: "src/assets/healthkart-hk-vitals-fish-oil.png",
+    price: "₹349",
+    mrp: "₹349",
+    discount: "3%",
+  },
+  {
+    id: 2,
+    name: "HK Vitals Biotin Tablet for Hair, Skin & Nails Health | 10,000 mcg",
+    image: "src/assets/90-hk-vitals-biotin.png",
+    price: "₹499",
+    mrp: "₹619",
+    discount: "19%",
+  },
+  {
+    id: 3,
+    name: "Revital Woman Tablet with Multivitamins, Calcium, Zinc & Natural Ginseng",
+    price: "₹270",
+    image: "src/assets/revital-H.png",
+    mrp: "₹355",
+    discount: "24%",
+  },
+  {
+    id: 4,
+    name: "Senior 50+ Multivitamin Tablets",
+    price: "₹422",
+    image: "src/assets/senior-50.png",
+    mrp: "₹529",
+    discount: "20%",
+  },
+  {
+    id: 5,
+    name: "Carbamide Forte Multivitamin Sports",
+    price: "₹499",
+    image: "src/assets/CarbamideForte.png",
+    mrp: "₹665",
+    discount: "25%",
+  },
+  {
+    id: 6,
+    name: "MuscleBlaze MB-Vite Multivitamin",
+    price: "₹299",
+    image: "src/assets/MB-vite.png",
+  },
+];
